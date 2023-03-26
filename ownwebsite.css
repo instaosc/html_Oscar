@@ -1,0 +1,31 @@
+p{
+color:black;
+background: beige;
+text-align: left;
+}
+
+b{
+    color: black;
+    background-color: beige;
+    font-style: italic;
+    text-align: center;
+}
+
+body{
+background-color: white;
+
+}
+
+h1{
+text-align: center;
+color: black;
+background-color: rgb(146, 146, 216);
+font-size: x-large;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.traits {
+    color: black;
+    background-color: chartreuse;
+}
+
